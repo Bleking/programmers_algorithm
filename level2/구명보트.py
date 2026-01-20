@@ -1,4 +1,4 @@
-# 프로그래머스 정렬 level 2 구명보트 
+# 프로그래머스 그리디 level 2 구명보트 
 
 from collections import deque
 
