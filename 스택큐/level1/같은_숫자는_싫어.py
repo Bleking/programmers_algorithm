@@ -1,3 +1,5 @@
+# 프로그래머스 스택/큐 같은 숫자는 싫어
+
 def solution(arr):
     answer = [arr[0]]
     
