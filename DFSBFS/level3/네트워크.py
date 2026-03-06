@@ -1,4 +1,4 @@
-# 프로그래머스 DFS/BFS level 2 네트워
+# 프로그래머스 DFS/BFS level 3 네트워크
 
 def solution(n, computers):
     answer = 0
